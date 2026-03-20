@@ -1,0 +1,106 @@
+--- PAGE 1 ---
+ 
+Ravi Teja 
+Ragam 
+AI & Power Platform Developer  
+Phone: (+91) 9618875954 
+Email: ravitejaragam503@gmail.com 
+Address: 4-72, Guntupalli, Prakasam, A.P 
+LinkedIn: LinkedIn Profile 
+ 
+      SKILLS 
+ AI Integrations, API Integrations 
+ Power Apps (Canvas & Model- 
+Driven) 
+ Power Automate (Cloud & 
+Desktop) 
+ Power BI, DAX, Power Query, 
+ Data Modeling, Fabrics 
+ Microsoft Copilot Studio (PVA) 
+ Custom Connectors, Power Pages 
+ SQL Server, Azure, Jira 
+ HTML & CSS 
+ Microsoft Graph API 
+ Power Platform COE 
+ Adaptive Cards, UI/UX 
+ 
+ 
+            EDUCATION 
+             
+        Bachelor of Technology (B. Tech), 2022 
+       Jawaharlal Nehru Technological University 
+      Kakinada (JNTU-K), Andhra Pradesh, India 
+ 
+           CERTIFICATIONS/LICENSES 
+            
+ Power Platform App Maker Associate 
+(PL-100) - Microsoft 
+ Power Platform Developer Associate 
+(PL-400) – Microsoft 
+ Power Automate RPA Developer  
+Associate (PL-500) - Microsoft 
+ Power BI Data Analyst Associate  
+(PL-300) - Microsoft 
+ Enterprise Agent Challenge – 
+Participant – Microsoft 
+ 
+         KEY ACHIEVEMENTS/AWARDS 
+          
+       Recognized as one of the Rising Stars at  
+       Capgemini India Pvt Ltd for exceptional  
+       Performance and contribution. 
+Transforming Businesses with Power Platform & AI-Driven Automation 
+Certified Power Platform Developer & AI Automation Specialist with 3+ years of 
+experience and hands-on exposure as a Solution Architect, transforming ideas into 
+intelligent, real-world solutions. I specialize in building user-friendly apps, automating 
+processes and integrating systems through Power Apps, Power Automate, Power BI and 
+Microsoft Copilot Studio. With mindset for simplicity and scalability, I blend low-code 
+innovation, data and AI to craft solutions that work beautifully and deliver real impact. 
+ 
+    WORK EXPERIENCE
+  AI & Power Platform Solutions Lead | EY GDS India LLP, 
+Hyderabad, India
+Sep 2025 – Jan 2026
+ Built AI-powered automation using Copilot Studio, Azure OpenAI, AI Foundry
+and Python, reducing manual decision-processing time by 80%.
+ Improved solution delivery consistency by 60% through Power Platform
+governance, Dataverse security roles and ALM pipelines.
+ Collaborated with global teams to design scalable AI-driven automation
+solutions ensuring security and seamless integration across enterprise systems.
+    Senior Power Platform Developer | Capgemini 
+        Technologies India Pvt Ltd, Pune, India
+  Dec 2022 – Sep 2025
+ Led architecture and delivery of end-to-end solutions using Microsoft Power
+Platform components including Power Apps, Power Automate (Cloud & 
+Desktop), Power BI, Power Pages, Dataverse and Microsoft Copilot Studio.
+ Designed scalable low-code applications and workflows, enabling automation of
+complex enterprise processes across departments such as finance, HR and IT.
+ Configured environment strategies and security models using Azure Key Vault,
+environment variables, custom connectors, role-based access controls, and 
+Dataverse security roles.
+ Built AI-driven conversational bots using Microsoft Copilot Studio, Azure 
+OpenAI, ChatGPT and Gemini AI, integrating with Teams, SharePoint and 
+Dataverse for intelligent support automation.
+ Mentored junior developers and led solution design workshops, reviewing
+architecture diagrams, user stories and DevOps boards.
+ Designed and implemented enterprise-grade integration architecture using Azure
+API Management (APIM), enabling secure, scalable API access for systems like 
+Workday, ServiceNow, Jira and Microsoft Graph API.
+ Managed solution deployment and lifecycle using Power Platform Pipelines and 
+Azure DevOps, supporting environment-based application lifecycle management
+(ALM) across deployment, testing and production stages.
+
+PROJECTS 
+    Rework Automation 
+   Tech Stack: Power Automate, Power Apps, Dataverse, File System, AX 2012 
+ Automated the rework process by ingesting AX 2012 CSV exports via Power 
+Automate, transforming and storing structured data in Dataverse, and visualizing it 
+through Power Apps with advanced features like filtering, status updates and 
+exports to pdf and excel for the selected records.
+         AI-Powered Chatbot Integration on Custom Website 
+     Tech Stack: Copilot Studio, Power Automate, ServiceNow, Azure, Power BI 
+ Deployed an AI-Powered Chatbot on a custom website using Microsoft copilot 
+studio, integrated with Power Automate and ServiceNow to handle support 
+queries, automate ticket creation and provide real-time responses.
+
+
